@@ -11,6 +11,12 @@
 
 ***
 
+ //Add card
+  >Todo
+ 
+ 
+ learning map<br>
+ learning note
  
 
  
