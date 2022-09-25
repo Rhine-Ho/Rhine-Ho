@@ -1,4 +1,4 @@
-<h1 <h1 align="center">HI🪬,my name is Rhine Ho（何嘉蕙）</h1>
+<h1 align="center">HI🪬,my name is Rhine Ho（何嘉蕙）</h1>
 
 <h3 align="center">I'm an web developer self-directed learner.</h3>
 
