@@ -7,7 +7,7 @@
 - ⚡ C/ C++/ Python.
 - 🗣 Chinese/Engilsh/Japanese. 
 - 📬 Reach me: mao07033@gmail.com
-- 📸 instagram: https://www.instagram.com/wasi_an_egg
+
 
 ***
 <h3 align="left">Languages and Tools:</h3>
