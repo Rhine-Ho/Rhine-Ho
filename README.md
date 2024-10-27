@@ -4,7 +4,7 @@
 
 
 - 🦾 HTML5/ CSS3/ JavaScript.
-- ⚡ C/ C++/ Python.
+- ⚡ Python.
 - 🗣 Chinese/English/Japanese. 
 - 📬 Reach me: Rhinegreenland@gmail.com
 
