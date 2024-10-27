@@ -22,7 +22,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rhine-Ho/Rhine-Ho/blob/main/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.figma.com/downloads/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rhine-Ho/Rhine-Ho/blob/main/figma.png" alt="figma" width="60" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/blender_logo.png" alt="blender" width="90" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rhine-Ho/Rhine-Ho/blob/main/icons8-flask-50.png" alt="flask" width="60" height="60"/> </a> 
+
 
 
 
