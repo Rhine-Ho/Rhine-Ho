@@ -1,6 +1,6 @@
 <h1 align="center">HI🪬,my name is Rhine Ho</h1>
 
-<h3 align="center">I'm an web developer self-taught learner.</h3>
+<h3 align="center">I'm an web developer .</h3>
 
 
 - 🦾 HTML5/ CSS3/ JavaScript.
