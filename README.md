@@ -1,6 +1,4 @@
-<h1 align="center">HI🪬,my name is Rhine Ho</h1>
-
-<h3 align="center">I'm an web developer .</h3>
+<h1 align="center">HI🪬,I'm Rhine </h1>
 
 
 - 🦾 HTML5/ CSS3/ JavaScript.
