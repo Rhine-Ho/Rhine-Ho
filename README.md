@@ -3,7 +3,7 @@
 
 - 🦾 HTML5/ CSS3/ JavaScript.
 - ⚡ Python.
-- 🗣 Chinese/English/Japanese. 
+- 🗣 Mandarin/English/Japanese. 
 - 📬 Reach me: Rhinegreenland@gmail.com
 
 
